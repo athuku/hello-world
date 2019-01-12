@@ -1,2 +1,2 @@
 # hello-world
-Hiigithubgitugani
+Day 1 of Gitschool. Branching out.
